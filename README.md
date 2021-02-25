@@ -9,6 +9,11 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=ffffff)
 
+### ОС:
+
+![Linux](https://img.shields.io/badge/-Linux-E95420?style=flat&logo=Ubuntu&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Winodws&logoColor=ffffff)
+
 ### Социальные сети:
 [![VKontakte](https://img.shields.io/badge/-VK-4680C2?style=flat&logo=VK&logoColor=ffffff)](https://vk.com/cold_cloud_gold)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=ffffff)](https://t.me/Octave_Parango)
