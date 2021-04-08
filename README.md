@@ -10,6 +10,10 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=ffffff)
 
+### Инструменты:
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=ffffff)
+
 ### ОС:
 
 ![Linux](https://img.shields.io/badge/-Linux-E95420?style=flat&logo=Ubuntu&logoColor=ffffff)
