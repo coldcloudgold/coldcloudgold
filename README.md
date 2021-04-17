@@ -1,6 +1,6 @@
 ### Последние проекты:
 
-[![Django-API](https://img.shields.io/badge/Django_API-Open-ffffff?style=flat&logo=Django&labelColor=092E20)](https://github.com/coldcloudgold/API)
+[![Django-API](https://img.shields.io/badge/Django_API-Open-ffffff?style=flat&logo=Django&labelColor=092E20)](https://github.com/coldcloudgold/Django-API)
 [![Flask-Site](https://img.shields.io/badge/Flask_site-Open-ffffff?style=flat&logo=Flask&labelColor=000000)](https://github.com/coldcloudgold/Flask-site)
 [![Course-currency-bot](https://img.shields.io/badge/Telegram_bot-Open-ffffff?style=flat&logo=Probot&labelColor=26A5E4&logoColor=ffffff)](https://github.com/coldcloudgold/Course-currency-bot)
 [![Simply-messager](https://img.shields.io/badge/Desktop_messager-Open-ffffff?style=flat&labelColor=1A73E8)](https://github.com/coldcloudgold/Simply-messager)
