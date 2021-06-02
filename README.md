@@ -26,3 +26,4 @@
 
 [![VKontakte](https://img.shields.io/badge/-VK-4680C2?style=flat&logo=VK&logoColor=ffffff)](https://vk.com/cold_cloud_gold)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=ffffff)](https://t.me/Octave_Parango)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=ffffff)](https://www.linkedin.com/in/ruslan-urazbakhtin/)
